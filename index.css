@@ -1,0 +1,68 @@
+.error {
+    color: red;
+}
+.logo{
+    text-align: left;
+    display: inline-block;
+}
+.find{
+    text-align: right;
+    float: right;
+}
+#Find{
+    background-color: #faec66;
+}
+h2{
+    color: black;
+    text-align: left;
+    font-size: 2em;
+    padding-left: 10px;
+} 
+
+h3{
+    color: rgb(31, 15, 15);
+    font-style: italic;
+    text-align: left;
+    padding-left: 25px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    margin-top: 10px;
+}
+.textInput{
+    text-align: left;
+    padding-left: 25px;
+    padding-top: 0px;
+    height: 30px;
+}
+.commentInput{
+    text-align: left;
+    padding-left: 25px;
+}
+.genderInput{
+    text-align: left;
+    padding-left: 25px;
+}
+.submit{
+    height: 30px;
+    background-color: rgb(65, 65, 25);
+    color: white;
+}
+body{
+    background-color: black;
+}
+.input{
+    background-color: #faec66;
+    height: 500px;
+    width: 500px;
+    text-align: center;
+    padding: auto;
+    margin: auto;
+    margin-top: 50px;
+    border-style: ridge  ;
+    border-radius: 25px;
+}
+.logo{
+    height: 100px;
+    width: 100px;
+    border-radius: 25px;
+}
